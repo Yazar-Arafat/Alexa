@@ -1,0 +1,2 @@
+HelloIntent say hello spring boot
+HelloIntent say hi spring boot

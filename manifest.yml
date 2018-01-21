@@ -1,0 +1,7 @@
+---
+applications:
+- name: amazon-hello-skill
+  memory: 1024M
+  instances: 1
+  random-route: true
+  path: target/amazon-hello-skill-1.0.0.jar
